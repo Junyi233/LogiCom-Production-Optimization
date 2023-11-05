@@ -20,3 +20,10 @@ Building upon the results of labor and station allocation optimization in Part A
 3. Profit optimization strategy outlining pricing, cost reduction, and efficiency improvement recommendations.
 4. Data analysis and modeling results showcasing the projected increase in monthly profit.
 5. Detailed report summarizing the project findings, recommendations, and the potential impact on LogiCom's profitability.
+
+**Project Discussion:**
+In this project, an optimization model has been developed to adjust the prototype assembly line process for laptops based on various factors, including the expected growth rate, pandemic effects, global chip shortage, and the company's internal state. This model has produced a set of optimal solutions for the production plan, catering to different demands for **management reference**.
+
+The strength of the product line model lies in its practicality, as it combines the advantages of both **lean manufacturing** and **production specialization**. It strikes a balance between productivity and efficiency by limiting each work station to a maximum of four steps. Furthermore, the production plan model offers a valuable set of optimal solutions to address diverse demands, assisting **management** in navigating the complexities of the current global economic landscape.
+
+Nevertheless, the models exhibit certain limitations. They simplify the background and situational complexities, leaving room for the inclusion of additional considerations that could enhance precision. To address this limitation, it is recommended to incorporate factors such as **CPU shortages**, quality issues, component deliveries, and the training of new employees into the models.
